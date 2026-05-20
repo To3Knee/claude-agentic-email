@@ -1,9 +1,8 @@
 <div align="center">
 
-<!-- Logo slot: drop a logo.png/svg here later and it'll sit top-center.
-     <img src="./assets/logo.svg" alt="claude-agentic-email" width="120" /> -->
+<img src="./assets/repologo.png" alt="claude-agentic-email" width="420" />
 
-# 📬 claude-agentic-email
+# claude-agentic-email
 
 **An email channel for [Claude Code](https://code.claude.com) — bring an [agentic-inbox](https://github.com/cloudflare/agentic-inbox) mailbox into a live session.**
 
