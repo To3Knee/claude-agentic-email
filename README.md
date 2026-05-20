@@ -94,7 +94,6 @@ All settings come from environment variables (or the `.env` above — real env w
 ## 🗺️ Roadmap
 
 - [ ] **Webhook delivery** — swap polling for an HMAC-verified push for instant (<1s) delivery.
-- [ ] **Logo + branding** — top-center logo once one exists.
 
 ## 📄 License
 
