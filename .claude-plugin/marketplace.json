@@ -1,0 +1,14 @@
+{
+  "name": "claude-agentic-email",
+  "owner": { "name": "To3Knee" },
+  "metadata": {
+    "description": "An email channel for Claude Code: agentic-inbox mail into a live session."
+  },
+  "plugins": [
+    {
+      "name": "agentic-email",
+      "source": ".",
+      "description": "Email channel: surfaces inbound agentic-inbox mail into the session as <channel source=\"agentic-email\"> events, with an in-thread reply tool (attachments + inline images)."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "agentic-email",
+  "description": "Email channel for Claude Code — pushes inbound mail from an agentic-inbox mailbox into the session as <channel source=\"agentic-email\"> events, with an in-thread reply tool. Polling-based, behind Cloudflare Access.",
+  "version": "0.1.0",
+  "keywords": ["email", "agentic-inbox", "channel", "mcp", "cloudflare"]
+}
